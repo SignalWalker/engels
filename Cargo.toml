@@ -5,3 +5,4 @@ authors = ["Ash Walker <ash@ashwalker.net>"]
 edition = "2018"
 
 [dependencies]
+birch = { git = "https://github.com/SignalWalker/Birch.git" }
